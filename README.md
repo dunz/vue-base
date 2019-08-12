@@ -40,4 +40,4 @@ npm run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Report Snapshots
-![Init Build Report](/public/img/init-build-report.png)
+![Init Build Report](/public/img/init-build-report.png "2019. 08. 12")

@@ -39,3 +39,5 @@ npm run test:unit
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Report Snapshots
+![Init Build Report](/public/img/init-build-report.png)
